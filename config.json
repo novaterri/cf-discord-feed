@@ -1,0 +1,13 @@
+{
+  "watchGame": {
+    "on": true,
+    "gameSlug": "inzoi",
+    "lookbackDays": 3,
+    "maxPagesPerRun": 10
+  },
+  "projects": [],
+  "botName": "Soft Latte Updates",
+  "color": "#6F4E37",
+  "newModColor": "#C98B6B",
+  "postExistingOnFirstRun": false
+}
